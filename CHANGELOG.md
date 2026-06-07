@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.0
+
+- Renamed the public project from `novel-writer` to PlotRail.
+- Added README rename notices in English and Chinese.
+- Kept the installable skill folder name as `novel-writer` for compatibility.
+
 ## 0.1.0
 
 - Initial public skill package.

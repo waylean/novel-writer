@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="assets/novel-writer-wordmark.svg" alt="Novel Writer wordmark" width="820">
+  <img src="assets/novel-writer-wordmark.svg" alt="PlotRail wordmark" width="820">
 </p>
 
 <p align="center">
   <a href="README.zh-CN.md">中文</a> · <a href="README.md">English</a>
 </p>
 
-一个给 Codex、Claude Code 等 AI Agent 使用的长篇小说写作 Skill。
+PlotRail 剧情轨，是一个给 Codex、Claude Code 等 AI Agent 使用的长篇小说写作 Skill，用来让 AI 长篇创作不丢主线、不忘人设、不乱伏笔。
+
+> 更名说明：PlotRail 剧情轨原名 `novel-writer`。因为 `novel-writer` 这个名字过于泛化，无法准确表达项目真正解决的问题，所以现在更名为 PlotRail 剧情轨。这个名字强调的是：给 AI 长篇写作铺一条可持续、不跑偏的剧情轨道。本版本中，可安装的 Skill 文件夹和调用名仍保留为 `novel-writer`，以兼容已经安装和正在使用的项目。
 
 它不是让 AI 在一个聊天窗口里硬记整本书，而是把小说变成一个长期项目：设定库、大纲、章节合同、正文草稿、连续性审稿、素材池、状态账本，全都落在文件里。
 
@@ -46,6 +48,8 @@ AI 已经很会写一段像小说的文字，但长篇小说真正难在：
 ## 安装方式
 
 把 `novel-writer/` 文件夹复制到你的 skills 目录。
+
+注意：当前版本的项目名已经改为 PlotRail 剧情轨，但 Skill 文件夹名仍是 `novel-writer`，安装和调用方式暂时不变。
 
 Codex 常见路径：
 

@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="assets/novel-writer-wordmark.svg" alt="Novel Writer wordmark" width="820">
+  <img src="assets/novel-writer-wordmark.svg" alt="PlotRail wordmark" width="820">
 </p>
 
 <p align="center">
   <a href="README.zh-CN.md">中文</a> · <a href="README.md">English</a>
 </p>
 
-A reusable `SKILL.md` workflow for writing long-form novels with AI agents.
+PlotRail is a reusable `SKILL.md` workflow for writing long-form novels with AI agents without losing canon, character state, plot threads, or chapter intent.
+
+> Rename notice: PlotRail was formerly published as `novel-writer`. The repository name has changed to make the project's purpose clearer: keeping AI-assisted long-form fiction on a durable plot rail. In this release, the installable skill folder and invocation name remain `novel-writer` for compatibility.
 
 Instead of asking an AI to remember an entire book in one chat, this skill turns a novel into a durable project: canon files, chapter contracts, drafts, reviews, research notes, and memory ledgers.
 
@@ -44,6 +46,8 @@ This skill solves that by making the agent behave like a disciplined writing roo
 ## Installation
 
 Copy the `novel-writer/` folder into your agent's skills directory.
+
+`novel-writer` is still the skill folder name in this release. The public project name is now PlotRail.
 
 For Codex:
 
